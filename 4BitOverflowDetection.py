@@ -91,4 +91,4 @@ resultDataFrame
 
 # %% Export result data frame as .csv.
 resultOut = DataFrame(evaluateStatementWithEnter(OFD))
-resultOut.to_csv('result1.csv')
+resultOut.to_csv('result.csv')
