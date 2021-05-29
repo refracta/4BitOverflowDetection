@@ -32,4 +32,4 @@ Grid[Table[
 
 ## Contributor
  - [unta1337 (Python)](https://github.com/unta1337)
- - [refracta (Mathematica)](https://github.com/refracta)
+ - [refracta (Wolfram Language)](https://github.com/refracta)
